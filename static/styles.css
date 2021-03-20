@@ -1,0 +1,19 @@
+.jumbotron {
+    background-image: url("../images/image_biodiversity.jpg");
+    background-size: 100% 100%;
+    opacity: 0.95;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p,h1 {
+    color:white;
+}
+
+.col-md-2 {
+    background-color: cadetblue;
+}
+
+.well {
+    margin-top: 15px;
+}
